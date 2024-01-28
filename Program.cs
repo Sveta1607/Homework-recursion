@@ -39,3 +39,17 @@ int N = 15;
 
 
 //Задайте произвольный массив. Выведете его элементы, начиная с конца. Использовать рекурсию, не использовать циклы.
+
+
+char[] charArray = "Hello, World!!!".ToCharArray();
+        {
+        Console.WriteLine(GetReversArray(charArray.Length-1, charArray));
+        }
+
+        string GetReversArray(int index, char[] array)
+         {
+            if(index < 0) return "";
+            return array[index] + GetReversArray(--index, array);
+        }
+    
+   
