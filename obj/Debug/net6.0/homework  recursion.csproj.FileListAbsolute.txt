@@ -1,0 +1,15 @@
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework  recursion\obj\Debug\net6.0\homework  recursion.csproj.AssemblyReference.cache
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework  recursion\obj\Debug\net6.0\homework  recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework  recursion\obj\Debug\net6.0\homework  recursion.AssemblyInfoInputs.cache
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework  recursion\obj\Debug\net6.0\homework  recursion.AssemblyInfo.cs
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework  recursion\obj\Debug\net6.0\homework  recursion.csproj.CoreCompileInputs.cache
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework  recursion\bin\Debug\net6.0\homework  recursion.exe
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework  recursion\bin\Debug\net6.0\homework  recursion.deps.json
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework  recursion\bin\Debug\net6.0\homework  recursion.runtimeconfig.json
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework  recursion\bin\Debug\net6.0\homework  recursion.dll
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework  recursion\bin\Debug\net6.0\homework  recursion.pdb
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework  recursion\obj\Debug\net6.0\homework  recursion.dll
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework  recursion\obj\Debug\net6.0\refint\homework  recursion.dll
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework  recursion\obj\Debug\net6.0\homework  recursion.pdb
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework  recursion\obj\Debug\net6.0\homework  recursion.genruntimeconfig.cache
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework  recursion\obj\Debug\net6.0\ref\homework  recursion.dll
